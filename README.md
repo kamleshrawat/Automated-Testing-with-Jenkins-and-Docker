@@ -1,4 +1,4 @@
-# Jenkins CI/CD Pipeline with Docker and GitHub
+# Automated TesƟng with Jenkins and Docker
 
 This repository demonstrates a Jenkins pipeline implementation for achieving continuous integration and continuous deployment (CI/CD) using Docker and GitHub.
 
